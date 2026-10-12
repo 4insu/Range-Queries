@@ -1,0 +1,7 @@
+# compiled programs (g++ / Code Runner output)
+*.exe
+*.out
+*.o
+
+# editor settings
+.vscode/
